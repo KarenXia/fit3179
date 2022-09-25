@@ -41,7 +41,7 @@
         "color": {
           "field": "Indicator:Prevalence of obesity among adults, BMI &GreaterEqual; 30 (crude estimate) (%) - Sex:Both sexes",
           "type": "quantitative",
-          "title": "% obesity among adults"
+          "title": "Obsity Percentage"
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
