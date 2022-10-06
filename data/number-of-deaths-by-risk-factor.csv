@@ -1,4 +1,4 @@
-Entity,Code,Year,High systolic blood pressure,Diet high in sodium,Diet low in vegetables,Low physical activity,High fasting plasma glucose,Obesity,Death rate
+Country,Code,Year,High systolic blood pressure,Diet high in sodium,Diet low in vegetables,Low physical activity,High fasting plasma glucose,Obesity,Death rate
 Afghanistan,AFG,1990,25633,1045,3679,2637,11449,9518,7.037503462
 Afghanistan,AFG,1991,25872,1055,3732,2652,11811,9489,6.979204561
 Afghanistan,AFG,1992,26309,1075,3827,2688,12265,9528,6.995896208
